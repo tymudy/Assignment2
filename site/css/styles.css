@@ -67,7 +67,7 @@ hr {
 	margin-bottom: 20px;
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 767px) {
 	#homecontent.row{
 		margin: 0px;
 	}
