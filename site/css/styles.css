@@ -71,4 +71,9 @@ hr {
 	.row{
 		margin: 0px;
 	}
+
+	.navbar-brand h1 {
+		font-size: .75em;
+	}
+
 }
